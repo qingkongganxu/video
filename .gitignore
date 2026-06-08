@@ -1,0 +1,5 @@
+node_modules/
+downloads/
+.codegraph/
+.DS_Store
+Thumbs.db
